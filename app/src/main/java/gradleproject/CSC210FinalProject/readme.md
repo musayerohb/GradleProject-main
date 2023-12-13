@@ -112,6 +112,6 @@ Progress:
  - Finished Djikstra Algorithm method so that it compiles and displays graph with paths
  - Removed unconnected graph on right hand side to prevent code from breaking; may attempt to implement functionality with unconnected graphs after demo
  - Next: want to implement functionality that includes getting a path from a start to end node by following backwards from one node to its neighbor node all the way to 0
-
+ - Attempted to copy/paste updated GraphDisplay file, but doing so broke the code, so we undid the change and are technically working with the old file
 Reflection:
 
